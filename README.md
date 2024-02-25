@@ -18,4 +18,9 @@
   }
 }
 ```
+- yarn add -D ts-node nodemon
+- added start:dev script
+```
+"start:dev": "nodemon --watch 'src/' --exec 'ts-node src/index.ts' -e ts"
+```
 - 
