@@ -1,1 +1,1 @@
-console.log('aloha')
+const message = 'unused'
